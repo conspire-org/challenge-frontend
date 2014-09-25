@@ -36,4 +36,4 @@ Please don't hesitate to ask us any questions you might have about the requireme
 
 ## Submission
 
-Please push your submission, including unit tests and any Grunt or other build file(s), to a public GitHub repository and let us when that it's ready to review. We appreciate your time and energy completing the coding exercise and will review your solution as quickly as possible.
+Please push your submission, including unit tests and any [Grunt](http://gruntjs.com/) or other build file(s), to a public GitHub repository and let us when that it's ready to review. We appreciate your time and energy completing the coding exercise and will review your solution as quickly as possible.

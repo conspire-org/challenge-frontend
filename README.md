@@ -1,5 +1,5 @@
-Conspire Front End Code Exercise
-================================
+Front End Code Exercise
+=======================
 
 For this code exercise, you'll build the front end for a RESTful web service. The web service endpoints are already mocked for your use, so you'll write only client code.
 

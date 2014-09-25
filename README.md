@@ -18,7 +18,7 @@ Your application will interact with a mock server via two REST API endpoints on 
 
 When formulating your ```PUT``` request, note that the mock endpoint will return ```200``` regardless of whether the request contains valid JSON. Be sure to use the [traffic inspector](http://docs.conspirechallenge.apiary.io/traffic/efa4b) to confirm your request JSON is properly formatted.
 
-Also, note that data sent to the ```PUT``` endpoint will not actually be persisted and that the same elements will be returned by the ```GET``` endpoint on every request.
+Also, note that data sent to the ```PUT``` endpoint will not actually be persisted, so the same elements will be returned by the ```GET``` endpoint on every request.
 
 ## User Interface
 

@@ -11,7 +11,7 @@ You should write unit tests for your solution using [Jasmine](http://jasmine.git
 
 ## Endpoints
 
-Two RESTful endpoints have been mocked for you at [Apiary.io](http://docs.conspirechallenge.apiary.io/). These are:
+Your application will interact with a mock server via two REST API endpoints on [Apiary.io](http://docs.conspirechallenge.apiary.io/). These are:
 
   1. ```GET http://private-efa4b-conspirechallenge.apiary-mock.com/profiles``` returns a JSON array of "profile" objects. See the [documentation](http://docs.conspirechallenge.apiary.io/#get-%2Fprofiles) for sample response JSON.
   1. ```PUT http://private-efa4b-conspirechallenge.apiary-mock.com/profiles/{id}``` accepts a single profile object in the request body, _not including the ```id``` property, which goes in the URL_. See the [documentation](http://docs.conspirechallenge.apiary.io/#put-%2Fprofiles%2F%7Bid%7D) for sample request JSON.

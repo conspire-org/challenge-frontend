@@ -16,7 +16,7 @@ Two RESTful endpoints have been mocked for you at [Apiary.io](http://docs.conspi
   1. ```GET http://private-efa4b-conspirechallenge.apiary-mock.com/profiles``` returns a JSON array of "profile" objects. See the [documentation](http://docs.conspirechallenge.apiary.io/#get-%2Fprofiles) for sample response JSON.
   1. ```PUT http://private-efa4b-conspirechallenge.apiary-mock.com/profiles/{id}``` accepts a single profile object in the request body, _not including the ```id``` property, which goes in the URL_. See the [documentation](http://docs.conspirechallenge.apiary.io/#put-%2Fprofiles%2F%7Bid%7D) for sample request JSON.
 
-_When formulating your ```PUT``` request, note that the mock endpoint will return ```200``` regardless of whether the request contains valid JSON. Be sure to use the [traffic inspector](http://docs.conspirechallenge.apiary.io/traffic/efa4b) to confirm your request JSON is properly formatted._
+When formulating your ```PUT``` request, note that the mock endpoint will return ```200``` regardless of whether the request contains valid JSON. Be sure to use the [traffic inspector](http://docs.conspirechallenge.apiary.io/traffic/efa4b) to confirm your request JSON is properly formatted.
 
 ## User Interface
 

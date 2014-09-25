@@ -32,9 +32,9 @@ The layout and styling of the interface are completely up to you. Elements of fu
 
 ## Guidelines
 
-You can and should use any open-source libraries applicable to the task. Feel free to search the web, read online documentation, etc. the way you would if this were a real project.
+You can and should use any open-source libraries applicable to the task. Feel free to search the web, read online documentation, etc. the way you would if this were a real project. Please don't hesitate to ask us any questions you might have about the requirements, technical issues, or anything else.
 
-Please don't hesitate to ask us any questions you might have about the requirements, technical issues, or anything else. One purpose of this exercise is to get a feel for what it would be like to work together, so don't be afraid to engage us at any time.
+We encourage you to approach this problem with the same rigor as a customer-facing project. For example, if you like to do wireframes prior to implementation, we would love to review them with you. We view this as an opportunity to collaborate with you, and we look forward to seeing how you approach every element of the problem.
 
 ## Submission
 

@@ -5,7 +5,7 @@ For this code exercise, you'll build the front end for a RESTful web service. Th
 
 ## Languages and Frameworks
 
-Your code should be written in HTML, CSS and JavaScript. (You're also welcome to use HAML, Sass/Less and/or CoffeeScript if familiar.) You should use the [Backbone.js](http://backbonejs.org/) framework to represent models and collections. Use of a templating framework is encouraged for dynamically generating DOM elements.
+Your code should be written in HTML, CSS and JavaScript. You're also welcome to use HAML, Sass/Less and/or CoffeeScript if familiar. You're free to use any tools (e.g. Bower, Grunt) and frameworks (e.g. Angular, Backbone) you like.
 
 You should write unit tests for your solution using [Jasmine](http://jasmine.github.io/2.0/introduction.html) or another JavaScript unit testing framework.
 
